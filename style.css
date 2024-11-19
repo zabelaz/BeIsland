@@ -1,11 +1,14 @@
 .chamada{
     background: white;
     display: flex;
-    margin-top: 80px;
-    margin-bottom: 80px; 
+    padding-top: 80px;
+    padding-bottom: 80px; 
     justify-content: center;
 }
 body{
     background: red;
     margin: 0px;
+    font-family: "Grenze", serif;
+    color: black;
+    margin-bottom: 100px;
 }
